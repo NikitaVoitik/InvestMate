@@ -11,6 +11,7 @@
 pyvenv.cfg
 .venv
 pip-selfcheck.json
+.env
 
 ### VirtualEnv template
 # Virtualenv
